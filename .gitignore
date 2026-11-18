@@ -8,3 +8,7 @@ docs/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Relatório (entregue separadamente no portal)
+*.docx
+*.pdf
