@@ -1,0 +1,10 @@
+# Material da disciplina (enunciados e código de referência do professor)
+docs/
+
+# Configurações locais e segredos
+.env
+
+# Arquivos de sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
